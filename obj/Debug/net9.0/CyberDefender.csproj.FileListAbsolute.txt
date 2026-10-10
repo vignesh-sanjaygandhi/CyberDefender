@@ -1,0 +1,14 @@
+C:\Users\Vignesh S\Projects\CyberDefender\bin\Debug\net9.0\CyberDefender.exe
+C:\Users\Vignesh S\Projects\CyberDefender\bin\Debug\net9.0\CyberDefender.deps.json
+C:\Users\Vignesh S\Projects\CyberDefender\bin\Debug\net9.0\CyberDefender.runtimeconfig.json
+C:\Users\Vignesh S\Projects\CyberDefender\bin\Debug\net9.0\CyberDefender.dll
+C:\Users\Vignesh S\Projects\CyberDefender\bin\Debug\net9.0\CyberDefender.pdb
+C:\Users\Vignesh S\Projects\CyberDefender\obj\Debug\net9.0\CyberDefender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vignesh S\Projects\CyberDefender\obj\Debug\net9.0\CyberDefender.AssemblyInfoInputs.cache
+C:\Users\Vignesh S\Projects\CyberDefender\obj\Debug\net9.0\CyberDefender.AssemblyInfo.cs
+C:\Users\Vignesh S\Projects\CyberDefender\obj\Debug\net9.0\CyberDefender.csproj.CoreCompileInputs.cache
+C:\Users\Vignesh S\Projects\CyberDefender\obj\Debug\net9.0\CyberDefender.dll
+C:\Users\Vignesh S\Projects\CyberDefender\obj\Debug\net9.0\refint\CyberDefender.dll
+C:\Users\Vignesh S\Projects\CyberDefender\obj\Debug\net9.0\CyberDefender.pdb
+C:\Users\Vignesh S\Projects\CyberDefender\obj\Debug\net9.0\CyberDefender.genruntimeconfig.cache
+C:\Users\Vignesh S\Projects\CyberDefender\obj\Debug\net9.0\ref\CyberDefender.dll
